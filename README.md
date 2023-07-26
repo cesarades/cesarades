@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cesar Ades</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [Blockly](https://github.com/google/blockly)
+- 🔭 I’m currently working on [Blockly Samples](https://github.com/google/blockly-samples/)
 
 - 📫 How to reach me **cesaradese@gmail.com**
 
